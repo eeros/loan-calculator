@@ -1,0 +1,6 @@
+
+fastapi==0.68.0
+uvicorn==0.15.0
+numpy==1.21.2
+numpy-financial==1.0.0
+gunicorn==20.1.0
