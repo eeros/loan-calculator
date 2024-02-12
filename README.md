@@ -9,6 +9,7 @@ How to get this run on Goodle Cloud:
 1. BUiLD
 
   docker build -t gcr.io/calculation-engine-413107/calculator .
+
 2. PUSH
 
  docker push gcr.io/<project-id></project-id>/calculator
